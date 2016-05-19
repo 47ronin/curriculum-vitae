@@ -1,0 +1,204 @@
+{
+  "basics": {
+    "name": "Glenn A. Batuyong",
+    "label": "Technologist, videographer, web designer",
+    "picture": "https://pbs.twimg.com/profile_images/543102462060548097/0vSaEA86.jpeg",
+    "email": "glenn@47ronin.com",
+    "phone": "+1 (619) 940-4747",
+    "degree": "Bachelor of Arts, Graphic Design",
+    "website": "https://github.com/47ronin",
+    "summary": "",
+    "highlights": null,
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Chula Vista",
+      "countryCode": "USA",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@gbatuyong",
+        "url": "https://twitter.com/gbatuyong"
+      },
+      {
+        "network": "GitHub",
+        "username": "47ronin",
+        "url": "https://github/com/47ronin"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "glennbatuyong",
+        "url": "https://www.linkedin.com/in/glennbatuyong"
+      },
+      {
+        "network": "YouTube",
+        "username": "gfxjedi",
+        "url": "https://youtube.com/gfxjedi"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Sempra Energy",
+      "position": "Multimedia Designer",
+      "website": "http://www.sempra.com/",
+      "startDate": "2015-04-28",
+      "endDate": "",
+      "summary": "Focused on dynamic digital signage design and content, internal photography and videography, media production, email marketing, web technical consultation",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "company": "Port of San Diego",
+      "position": "Senior Web Developer",
+      "website": "https://www.portofsandiego.org/",
+      "startDate": "2005-11-01",
+      "endDate": "2015-04-23",
+      "summary": "Focused on marketing technology, CMS upkeep and security, web design, server optimization, videography, media production, social media plan and implementation, email marketing",
+      "highlights": [
+        "Awarded '(2015) Emmy Nomination: Video, Short Format Program; “Hands of the Harbor”'",
+        "Awarded '(2013) Award of Excellence: Video; American Association of Port Authorities'",
+        "Project '(2013) Agency website design and deployment'",
+        "Awarded '(2010) Telly Award: Online Video; “First-ever Hybrid Ferry Visits Port of San Diego”'",
+        "Awarded '(2010) Telly Award: Online Video; “Disabled Veterans Compete in VA Summer Sports Clinic”'",
+        "Awarded '(2010) Webby Official Honoree: Online Film and Video Series; “Port Matters”'",
+        "Project '(2008) Agency website design and deployment'",
+        "Awarded '(2007) Employee of the Year'"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Open San Diego",
+    "position": "Videographer, programming contributor, documentation contributor",
+    "website": "http://www.opensandiego.org/",
+    "startDate": "2015-01-01",
+    "endDate": "",
+    "summary": "",
+    "highlights": [
+      ""
+    ]
+  }],
+  "additionalWork": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "workLabel": "",
+  "additionalWorkLabel": "",
+  "education": [
+    {
+      "institution": "San Diego State University",
+      "area": "Graphic Design and Multimedia, Bachelor of Arts",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "1998-05-01",
+      "gpa": "",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Conference Speaker: “Gov 2.0 Videos: What are you waiting for?”",
+      "publisher": "Gov20LA Camp",
+      "releaseDate": "2010",
+      "website": "",
+      "summary": "",
+      "isbn": ""
+    },
+    {
+      "name": "Conference Speaker: “Case studies for social media in business”",
+      "publisher": "Promote Coronado Committee",
+      "releaseDate": "2009",
+      "website": "",
+      "summary": "",
+      "isbn": ""
+    },
+    {
+      "name": "Conference Speaker: “Take your website to 2.0”",
+      "publisher": "National Association of Government Communicators",
+      "releaseDate": "2009",
+      "website": "",
+      "summary": "",
+      "isbn": ""
+    }
+  ],
+  "additionalPublications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "",
+      "isbn": ""
+    }
+  ],
+  "publicationsLabel": "",
+  "additionalPublicationsLabel": "",
+  "skills": [
+    {
+      "name": "Web development",
+      "level": "Versatile",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Twitter Bootstrap"
+      ]
+    },
+    {
+      "name": "CMS/server management",
+      "level": "Well-versed",
+      "keywords": [
+        "Joomla",
+        "WordPress",
+        "Ubuntu",
+        "Apache",
+        "PHP",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Videography",
+      "level": "Versatile",
+      "keywords": [
+        "Principal photography",
+        "Sound engineering",
+        "Production editing"
+      ]
+    }
+  ],
+  "languages": [{
+    "name": "English",
+    "level": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Civic hacking",
+    "keywords": [
+      "Code for America",
+      "Open data"
+    ]
+  },
+  {
+    "name": "Development stack",
+    "keywords": [
+      "Yeoman",
+      "Gulp",
+      "Bower",
+      "Twitter Bootstrap",
+      "Git"
+    ]
+  }]
+}
