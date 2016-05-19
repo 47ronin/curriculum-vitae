@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-    
+
     <head>
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -15,7 +15,7 @@
                 font-weight: normal;
                 font-style: normal;
             }
-            
+
             [class^="icon-"], [class*=" icon-"] {
                 /* use !important to prevent issues with browser extensions that change fonts */
                 font-family: 'icomoon' !important;
@@ -25,12 +25,12 @@
                 font-variant: normal;
                 text-transform: none;
                 line-height: 1;
-            
+
                 /* Better Font Rendering =========== */
                 -webkit-font-smoothing: antialiased;
                 -moz-osx-font-smoothing: grayscale;
             }
-            
+
             .icon-medium:before {
                 content: "\f23a";
             }
@@ -187,8 +187,8 @@
             .icon-board:before {
                 content: "\e608";
             }
-            
-            
+
+
             .relative {
               position: relative;
             }
@@ -910,7 +910,7 @@
             }
         </style>
     </head>
-    
+
     <body itemscope="itemscope" itemtype="http://schema.org/Person">
         <div class="container-fluid">
             <div class="row main clearfix"><a href="#" class="js-floating-nav-trigger floating-nav-trigger"><i class="icon-bars"></i><span class="close-icon">&times;</span></a>
@@ -934,7 +934,7 @@
                     </ul>
                     </nav>
                     <section class="col-md-3 card-wrapper profile-card-wrapper affix">
-                        <div class="card profile-card"><span class="profile-pic-container"><div class="profile-pic"><img data-src="holder.js/100x100" alt="Glenn A. Batuyong" src="<a href="https://pbs.twimg.com/profile_images/543102462060548097/0vSaEA86.jpeg">https://pbs.twimg.com/profile_images/543102462060548097/0vSaEA86.jpeg</a>" itemprop="image" class="media-object img-circle center-block"/></div><div class="name-and-profession text-center"><h3 itemprop="name"><b>Glenn A. Batuyong</b></h3><h5 itemprop="jobTitle" class="text-muted">Technologist, videographer, web designer</h5></div></span>
+                        <div class="card profile-card"><span class="profile-pic-container"><div class="profile-pic"><img data-src="holder.js/100x100" alt="Glenn A. Batuyong" src="https://pbs.twimg.com/profile_images/543102462060548097/0vSaEA86.jpeg" itemprop="image" class="media-object img-circle center-block"/></div><div class="name-and-profession text-center"><h3 itemprop="name"><b>Glenn A. Batuyong</b></h3><h5 itemprop="jobTitle" class="text-muted">Technologist, videographer, web designer</h5></div></span>
                             <hr/>
                             <div class="contact-details clearfix">
                                 <div class="detail"><span class="icon"><i class="icon fs-lg icon-location"></i></span>
@@ -1226,7 +1226,7 @@
                 $( '.js-floating-nav' ).toggleClass( 'is-visible' );
                 $( '.js-floating-nav-trigger' ).toggleClass( 'is-open' );
               };
-            
+
               $( ".background-card" ).css( "min-height", window.screen.availHeight + "px" );
               $( "[data-toggle=tooltip]" ).tooltip();
               $( '.js-floating-nav-trigger' ).on( 'click', function(e) {
@@ -1234,13 +1234,13 @@
                 toggleFloatingMenu();
               });
               $( '.js-floating-nav a' ).on( 'click', toggleFloatingMenu );
-            
+
               $("#remaining-profiles").on('show.bs.collapse', function() {
                 $( '.js-profiles-collapse > i' )
                   .removeClass( 'icon-chevron-down' )
                   .addClass( 'icon-chevron-up' );
               });
-            
+
               $("#remaining-profiles").on('hidden.bs.collapse', function() {
                 $( '.js-profiles-collapse > i' )
                   .removeClass( 'icon-chevron-up' )
